@@ -6,17 +6,17 @@
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Architecture](#architecture)
-- [API Reference](#api-reference)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
+- [Overview](#Overview)
+- [Key Features](#Key-Features)
+- [Getting Started](#Getting-Started)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Configuration](#Configuration)
+- [Architecture](#Architecture)
+- [API Reference](#Api-Reference)
+- [Troubleshooting](#Troubleshooting)
+- [Contributing](#Contributing)
+- [License](#License)
 
 ---
 
